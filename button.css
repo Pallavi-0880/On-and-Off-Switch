@@ -1,0 +1,11 @@
+.btn{
+    font-size: 30px;
+    border-radius: 20px;
+    font-family: Arial;
+    background-color: lightgreen;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
